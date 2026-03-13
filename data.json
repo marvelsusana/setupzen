@@ -1,0 +1,95 @@
+{
+  "featuredProducts":[
+    {
+      "id": "prod-1",
+      "name": "Brazo de monitor",
+      "description": "Libera espacio y mejora tu postura con este brazo ergonómico para monitores de 17–30”. Ajuste suave con resorte de gas y giro 360° para máxima comodidad.",
+      "image": "imagenes/brazo de monitor.png",
+      "url": "imagenes/https://amzn.to/46ACUZ6",
+      "rating": "⭐ 4.6 / 5 en Amazon"
+    },
+    {
+      "id": "prod-2",
+      "name": "Logitech G305 Lightspeed ",
+      "description": "Un mouse gamer inalámbrico rápido, preciso y ligero. Perfecto para mejorar tu setup sin gastar demasiado.",
+      "image": "imagenes/Mouse Logitech G305.png",
+      "url": "https://amzn.to/4b78kYi"
+    },
+    {
+      "id": "prod-3",
+      "name": "Barra de luz para monitor",
+      "description": "Iluminación sin reflejos que protege tus ojos y mejora la visibilidad mientras trabajas o estudias frente al monitor.",
+      "image": "imagenes/Barra de luz para monitor.png",
+      "url": "https://amzn.to/3PgRTBm"
+    },
+    {
+      "id": "prod-4",
+      "name": "hyperx quadcast 2",
+      "description": "Micrófono diseñado para ofrecer un sonido claro y profesional ideal para streaming, gaming, podcast y creación de contenido.",
+      "image": "imagenes/hyperx quadcast 2.png",
+      "url": "https://amzn.to/4u9UbT1"
+    },
+    {
+      "id": "prod-5",
+      "name": "Logitech G435",
+      "description": "Auriculares inalámbricos ligeros con sonido claro y conexión rápida para gaming, música y chat diario.",
+      "image": "imagenes/Logitech G435.png",
+      "url": "https://amzn.to/4bfQQsX"
+    },
+    {
+      "id": "prod-6",
+      "name": "redragon kumara K552",
+      "description": "Teclado mecánico compacto con switches precisos que ofrece una experiencia rápida y cómoda para gaming y trabajo..",
+      "image": "imagenes/redragon kumara.png",
+      "url": "https://amzn.to/4sq2f01"
+    },
+    {
+      "id": "prod-7",
+      "name": "Alfombrilla titanwolf XXL",
+      "description": "Superficie optimizada para gaming que mejora la precisión y el control en cada movimiento.",
+      "image": "imagenes/titanwolf - Alfombrilla de ratón XXL.png",
+      "url": "https://amzn.to/3MRtdyO"
+    },
+      {
+      "id": "prod-8",
+      "name": "Brazo de micrófono de perfil bajo",
+      "description": "Brazo de micrófono de perfil bajo con ajuste suave que mejora la comodidad y la organización de tu escritorio.",
+      "image": "imagenes/Brazo de micrófono de perfil bajo.png",
+      "url": "https://amzn.to/3P5o1I6"
+    },
+   {
+      "id": "prod-9",
+      "name": "Logitech G 413 TKL",
+      "description": "Teclado mecánico compacto con switches táctiles, construcción resistente y rendimiento preciso para gaming y productividad.",
+      "image": "imagenes/Logitech G 413 TKL.png",
+      "url": "https://amzn.to/4bbq5pv"
+    },
+      {
+      "id": "prod-10",
+      "name": "KZ ZS10 Pro ",
+      "description": "Auriculares in-ear con sonido potente y gran claridad gracias a su sistema híbrido de múltiples drivers, ideales para música, gaming y uso diario.",
+      "image": "imagenes/KZ ZS10 Pro (1).png",
+      "url": "https://amzn.to/3MPgqwP"
+    },
+    {
+      "id": "prod-11",
+      "name": "Attack Shark ajazz AK820 ",
+      "description": "Teclado mecánico compacto con RGB, switches hot-swap y diseño 75 % ideal para gaming y setups minimalistas.",
+      "image": "imagenes/Attack Shark ajazz AK820.png",
+      "url": "https://amzn.to/4s2wcDK"
+    },
+    {
+      "id": "prod-12",
+      "name": "Alfombrilla de ratón Glorious Elements ",
+      "description": "Alfombrilla de ratón XL ultrafina con superficie dura de baja fricción que ofrece movimientos rápidos y precisos en gaming.",
+      "image": "imagenes/Alfombrilla de ratón Glorious Elements .png",
+      "url": "https://amzn.to/4swRKZ0"
+    }
+    
+  ],
+  "topProducts":[
+    
+    
+   
+  ]
+}

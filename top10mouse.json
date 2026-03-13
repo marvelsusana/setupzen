@@ -1,0 +1,95 @@
+{
+  "mice":[
+    {
+      "id":1,
+      "name":"Logitech G305 Lightspeed",
+      "price":"$40-$60 USD",
+      "specs":"Sensor de juegos HERO.",
+      "img":"imagenes/Mouse Logitech G305.png",
+      "desc":"Un mouse gamer inalámbrico rápido, preciso y ligero. Perfecto para mejorar tu setup sin gastar demasiado..",
+      "link":"https://amzn.to/40nllrR"
+    },
+    {
+      "id":2,
+      "name":"ATTACK SHARK X3",
+      "price":"$40-$50 USD",
+      "specs":"sensor óptico avanzado de 26 K, 99g, 1ms respuesta, uración máxima de batería de 200 horas.",
+      "img":"top10mouse/ATTACK SHARK X3.png",
+      "desc":"solo 49g de peso. ofrece una respuesta instantánea y sin cables para quienes buscan la máxima ventaja competitiva.",
+       "link":"https://amzn.to/4cBWYxT"
+    },
+    {
+      "id":3,
+      "name":"MCHOSE L7 Pro",
+      "price":"$50-$60 USD",
+      "specs":"hasta 8000 Hz, 39g,  sensor PAW3395.",
+      "img":"top10mouse/MCHOSE L7 Pro.png",
+      "desc":"Ergonomía perfecta para manos grandes y rendimiento pro.",
+       "link":"https://amzn.to/4lnJUPe"
+    },
+     {
+      "id":4,
+      "name":"HyperX Pulsefire Haste 2 Mini ",
+      "price":"$30-$40 USD",
+      "specs":"Sensor HyperX 26K,59g ,26.000 DPI.",
+      "img":"top10mouse/HyperX Pulsefire Haste 2 Mini .png",
+      "desc":"Ergonomía perfecta para manos grandes y rendimiento pro.",
+       "link":"https://amzn.to/4rkQRBQ"
+    },
+    {
+      "id":5,
+      "name":"ATK dragonfly A9 plus",
+      "price":"$35-$45 USD",
+      "specs":"Sensor PAW3395, 48g, 1000Hz, Switches Huano.",
+      "img":"top10mouse/atk dragonfly a9 plus.png",
+      "desc":"mouse gamer inalámbrico ultraligero (~53-57g) de alto rendimiento, tasa de sondeo de hasta 8K  (en ciertas versiones).",
+       "link":"https://amzn.to/3PqESVT"
+    },
+    {
+      "id":6,
+      "name":"ATK VXE Dragonfly R1 Pro",
+      "price":"$48-$58 USD",
+      "specs":"Sensor PAW3395. ",
+      "img":"top10mouse/ATK VXE Dragonfly R1 Pro.png",
+      "desc":" ratón inalámbrico para juegos, 48g de peso ligero, DPI ajustable, sondeo de 4k, vida de la batería de 75 horas.",
+       "link":"https://amzn.to/4uicSDR "
+    },
+    {
+      "id":7,
+      "name":"ATK Blazing Sky X1 V2 ",
+      "price":"$60-$65 USD",
+      "specs":"Sensor PAW3950",
+      "img":"top10mouse/ATK Blazing Sky X1 V2 .png ",
+      "desc":"CONSTRUCCIÓN ULTRA-LIGERA: Pesa solo 54 – 55 g, 8000 HZ",
+       "link":"https://amzn.to/4uriHzd"
+    },
+     {
+      "id":8,
+      "name":"AJAZZ aj139 v2 MC",
+      "price":"$39-$45 USD",
+      "specs":"Sensor PAW3311",
+      "img":"top10mouse/Ajazz aj139 v2 .png",
+      "desc":"Alta tasa de retorno: con una tasa de retorno de 1000 Hz, el mouse proporciona un rendimiento suave y receptivo, mejorando su experiencia de juego o trabajo.",
+       "link":"https://amzn.to/3PqYLw1"
+    },
+     {
+      "id":9,
+      "name":"Redragon M821",
+      "price":"$26-$30 USD",
+      "specs":"Sensor óptico: S205",
+      "img":"top10mouse/Redragon Mouse .png",
+      "desc":"mouse gaming ultraligero de 54 g con conexión tri-modo (2.4 GHz, Bluetooth y USB-C),",
+       "link":"https://amzn.to/40lTU1I"
+    },
+     {
+      "id":10,
+      "name":" ",
+      "price":"$39 USD",
+      "specs":" ",
+      "img":"top10mouse/ ",
+      "desc":" ",
+       "link":"  "
+    }
+  
+  ]
+}

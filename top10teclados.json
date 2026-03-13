@@ -1,0 +1,102 @@
+{
+  "mice":[
+    {
+      "id":1,
+      "name":"AULA F75 Pro",
+      "price":"$68-$75 USD",
+      "specs":"interruptores Reaper prelubricados",
+      "img":"top10teclados/AULA F75 Pro.png",
+      "desc":"teclado mecánico inalámbrico compacto con formato 75%, diseñado para ofrecer alto rendimiento tanto en gaming como en productividad. ",
+      "link":"https://amzn.to/4d9xZlJ"
+    },
+  
+     {
+      "id":2,
+      "name":"ATTACK SHARK X68",
+      "price":"$56-$65 USD",
+      "specs":"interruptores magnéticos Hall Effect",
+      "img":"top10teclados/ATTACK SHARK X68.png",
+      "desc":"El X68 también destaca por su polling rate de hasta 8000 Hz y una latencia aproximada de 0.125 ms, lo que permite registrar cada pulsación con gran precisión y rapidez.",
+       "link":"https://amzn.to/47AHerv"
+    },
+    {
+      "id":3,
+      "name":"Mer68 SE",
+      "price":"$45-$50 USD",
+      "specs":"Interruptores magnéticos Hall Effect",
+      "img":"top10teclados/Mer68 SE.png ",
+      "desc":"teclado mecánico gaming compacto de 68 teclas (65 %), diseñado para ofrecer velocidad extrema y alta precisión en juegos competitivos.",
+       "link":"https://amzn.to/4b37mxu"
+    },
+    {
+      "id":4,
+      "name":"MU68PRO",
+      "price":"$79-$89 USD",
+      "specs":"switches magnéticos (Hall Effect)",
+      "img":"top10teclados/MU68PRO.png",
+      "desc":"El IROK MU68 Pro es un teclado mecánico compacto de 65% con 68 teclas, diseñado para gamers que buscan máxima velocidad y precisión. ",
+       "link":"https://amzn.to/4b20X5L"
+    },
+    {
+      "id":5,
+      "name":"Razer Huntsman 60",
+      "price":"$89-$99 USD",
+      "specs":"Switches ópticos lineales Razer",
+      "img":"top10teclados/Razer Huntsman 60_ .png",
+      "desc":"El Razer Huntsman Mini es un teclado gaming compacto 60% diseñado para ofrecer máxima velocidad y precisión en juegos competitivos.",
+       "link":"https://amzn.to/4beeyph "
+    },
+    {
+      "id":6,
+      "name":"MONSGEEK FUN60",
+      "price":"$34-$40 USD",
+      "specs":"sensores de efecto Hall de alta precisión",
+      "img":"top10teclados/MONSGEEK FUN60.png",
+      "desc":"teclado gaming 60 % compacto diseñado para alto rendimiento. Utiliza switches magnéticos (Hall Effect) con Rapid Trigger y punto de activación ajustable.",
+       "link":"https://amzn.to/40WQRNz  "
+    },
+      {
+      "id":7,
+      "name":"RK ROYAL KLUDGE RK61",
+      "price":"$39-$45USD",
+      "specs":"switches marrones intercambiables en caliente (hot-swap)",
+      "img":"top10teclados/RK ROYAL KLUDGE RK61.png",
+      "desc":"l RK ROYAL KLUDGE RK61 es un teclado mecánico compacto 60 % con 61 teclas, ideal para setups gaming minimalistas y escritorios con más espacio para el mouse.",
+       "link":" "
+    },
+      {
+      "id":8,
+      "name":"LEOBOG x Aula F99 Pro",
+      "price":"$75-$80 USD",
+      "specs":"con interruptores LEOBOG Star Vector",
+      "img":"top10teclados/LEOBOG x Aula F99 Pro.png",
+      "desc":"El AULA F99 Pro es un teclado mecánico personalizable con diseño 96 % que incluye teclado numérico y perilla multifunción, ideal para gaming y productividad.",
+       "link":" https://amzn.to/4unANBW"
+    },
+    {
+      "id":9,
+      "name":"HyperX Alloy Origins 60",
+      "price":"$90-$99 USD",
+      "specs":"switches mecánicos HyperX",
+      "img":"top10teclados/HyperX Alloy Origins 60.png",
+      "desc":"El HyperX Alloy Origins 60 es uno de los mejores teclados compactos para gaming en su rango de precio, especialmente si juegas FPS como Valorant, CS2 o Fortnite.",
+       "link":" https://amzn.to/4bjpHoX"
+    },
+    {
+      "id":10,
+      "name":"Redragon K630 Dragonborn",
+      "price":"$30-$35 USD",
+      "specs":"Switches rojos",
+      "img":"top10teclados/Redragon K630 Dragonborn.png",
+      "desc":"teclado mecánico compacto 60 % con 61 teclas, diseñado para setups gaming minimalistas y mayor espacio para el mouse.",
+       "link":"https://amzn.to/4b67rkc "
+    }
+  
+  
+
+  
+  
+  
+  
+  ]
+}
