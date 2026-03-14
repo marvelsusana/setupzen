@@ -12,77 +12,62 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="bg-white">
-
-<nav class="glass-nav fixed w-full z-50 top-0 transition-all duration-400">
-  <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+<nav class="fixed w-full z-50 top-0 bg-white/80 backdrop-blur-md border-b border-gray-100 transition-all duration-400">
+  <div class="max-w-6xl mx-auto px-6 py-4 flex flex-wrap justify-between items-center">
     
-    <div class="text-xl font-semibold tracking-tight">
-      <span class="text-black">Setup</span><span class="text-gray-400">zen</span>
+    <div class="text-xl font-semibold tracking-tight text-gray-900">
+      Setup<span class="text-gray-400">zen</span>
     </div>
 
-    <div class="menu">
-      <a href="#hero">Inicio</a>
-      <a href="#destacados">Destacados</a>
-      <a href="#top3">Mejor setup</a>
+    <div class="hidden md:flex gap-8 text-sm font-medium text-gray-500">
+      <a href="#hero" class="hover:text-gray-900 transition-colors">Inicio</a>
+      <a href="#destacados" class="hover:text-gray-900 transition-colors">Destacados</a>
+      <a href="#top3" class="hover:text-gray-900 transition-colors">Mejor setup</a>
     </div>
 
-    <!-- CONTENEDOR DEL BOTON -->
-    <div class="top-wrapper">
-
-      <button onclick="toggleTopMenu()" class="btn-primary px-5 py-2 rounded-full text-sm font-medium">
-        VER LOS TOP 10
+    <div class="relative">
+      <button onclick="toggleTopMenu()" class="px-5 py-2.5 rounded-full border border-gray-200 text-gray-700 text-sm font-medium hover:border-gray-900 hover:text-gray-900 transition-colors">
+        Ver los Top 10
       </button>
 
-      <!-- MENU -->
-      <div id="topMenu" class="top-menu hidden">
-
-        <a href="top10mousegaming.html">Top 10 Mouse Gaming</a>
-        <a href="top10teclados.html">Top 10 Teclados Mecánicos</a>
-        <a href="#">Top 10 Audífonos Gaming</a>
-        <a href="#">Top 10 Accesorios Setup</a>
-        <a href="#">Top 10 Monitores Gaming</a>
-
+      <div id="topMenu" class="hidden absolute right-0 mt-3 w-56 bg-white border border-gray-100 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] py-2 text-sm text-gray-600">
+        <a href="top10mousegaming.html" class="block px-5 py-2.5 hover:bg-gray-50 hover:text-gray-900 transition-colors">Top 10 Mouse Gaming</a>
+        <a href="top10teclados.html" class="block px-5 py-2.5 hover:bg-gray-50 hover:text-gray-900 transition-colors">Top 10 Teclados Mecánicos</a>
+        <a href="#" class="block px-5 py-2.5 hover:bg-gray-50 hover:text-gray-900 transition-colors">Top 10 Audífonos Gaming</a>
+        <a href="#" class="block px-5 py-2.5 hover:bg-gray-50 hover:text-gray-900 transition-colors">Top 10 Accesorios Setup</a>
+        <a href="#" class="block px-5 py-2.5 hover:bg-gray-50 hover:text-gray-900 transition-colors">Top 10 Monitores Gaming</a>
       </div>
-
     </div>
 
   </div>
 </nav>
 
-<header id="hero" class="relative pt-32 pb-20 md:pt-48 md:pb-32 px-6 overflow-hidden bg-cover bg-center min-h-[90vh] flex items-center"
-style="background-image: url('imagenes/@martzbr on tiktok.jpg');">
+<header id="hero" class="relative pt-40 pb-32 px-6 bg-white min-h-[85vh] flex items-center justify-center">
+  <div class="max-w-4xl mx-auto text-center space-y-10 reveal-hero">
+    
+    <h1 class="text-6xl md:text-8xl font-bold tracking-tighter text-gray-900 leading-[1.05]">
+      Eleva tu Setup <br class="hidden md:block" />
+      <span class="text-gray-300">al Siguiente Nivel.</span>
+    </h1>
 
+    <p class="text-lg md:text-xl text-gray-500 font-light max-w-2xl mx-auto leading-relaxed">
+      Descubre nuestra selección minimalista de periféricos y accesorios diseñados para maximizar tu enfoque, estética y rendimiento.
+    </p>
 
+    <div class="pt-6">
+      <a href="#destacados" class="inline-block bg-gray-900 text-white px-8 py-4 rounded-full font-medium hover:bg-gray-800 transition-all hover:scale-105 shadow-lg shadow-gray-200">
+        Ver Recomendaciones
+      </a>
+    </div>
 
-<div class="absolute inset-0 bg-black/40"></div>
+    <div class="flex flex-wrap justify-center gap-6 md:gap-12 pt-16 text-sm text-gray-400 font-medium tracking-wide">
+      <p>✦ Productos calidad-precio</p>
+      <p>✦ Recomendaciones honestas</p>
+      <p>✦ Actualizado constantemente</p>
+    </div>
 
-<div class="relative max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-16 text-white">
-
-<div class="flex-1 space-y-8 reveal-hero">
-<h1 class="text-5xl md:text-7xl font-bold tracking-tighter leading-[1.1]">
-Eleva tu Setup al Siguiente Nivel.
-</h1>
-
-<p class="text-lg md:text-xl text-gray-200 font-light max-w-md leading-relaxed">
-Descubre nuestra selección minimalista de periféricos y accesorios diseñados para maximizar tu enfoque, estética y rendimiento.
-</p>
-
-<div class="pt-4">
-<a href="#destacados" class="bg-white text-black px-8 py-4 rounded-full font-medium">
-Ver Recomendaciones
-</a>
-</div>
-<div class="hero-features">
-<p> Productos calidad-precio</p>
-<p>Recomendaciones honestas</p>
-<p>Actualizado constantemente</p>
-</div>
-</div>
-
-</div>
-
+  </div>
 </header>
-
     <section id="destacados" class="py-24 bg-gray-50/50">
         <div class="max-w-6xl mx-auto px-6">
             <div class="text-center mb-16 reveal-section">
